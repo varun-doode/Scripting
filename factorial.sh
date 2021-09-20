@@ -9,3 +9,4 @@ do
 done
 echo "factorial of $num = $result"
 echo "welcome"
+echo "welcome"
