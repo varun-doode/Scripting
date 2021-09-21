@@ -8,4 +8,4 @@ do
 	num=`expr $num - 1`
 done
 echo "factorial of $num = $result"
-echo "executed"
+echo "executed fine"
