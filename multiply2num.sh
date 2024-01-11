@@ -1,9 +1,8 @@
 #!/bin/bash
-echo "entre a"
-read a
-echo "entre b"
-read b
+var=1
+var2=2
 
-c=`expr $a \* $b`
+
+c=`expr $var \* $var2`
 
 echo " multiple is $c"
