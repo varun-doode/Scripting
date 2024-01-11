@@ -1,6 +1,7 @@
 #!/bin/bash
-echo "entre number"
-read num
+$num
+#echo "entre number"
+#read num
 result=1
 while [ $num -gt 0 ]
 do
